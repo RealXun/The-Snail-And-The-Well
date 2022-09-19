@@ -51,7 +51,7 @@ for num in range(len(traveled_day)):
 
 A pretty easy way to know in how many days the Snaill will finally climb the well.
 
-## As bonus, lets check somthing else, just for fun.
+## As bonus, lets check something else, just for fun.
 - What is your maximum displacement in a day? And its minimum?
 ```
 import statistics
