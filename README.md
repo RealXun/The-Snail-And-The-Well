@@ -1,4 +1,4 @@
-# Snail and the Well
+# The Snail and the Well
 
 ![](https://github.com/RealXun/The-Snail-And-The-Well/blob/main/Resources/maxresdefault%20(1).jpg)
 
